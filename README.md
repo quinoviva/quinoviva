@@ -14,14 +14,13 @@
 </p>
 
 ### 🛠️ Current Status
-- **Primary Language:** Stack Overflow Search Queries
 - **Current Vibe:** `git push origin main --force` and praying
-- **Daily Diet:** Coffee, regrets, and fixing bugs I created yesterday
+- **Daily Diet:** Water, regrets, and fixing bugs I created yesterday
 - **IDE Setup:** Dark mode so deep it swallows my soul
 
 ---
 
-### 💻 My Tech Stack (Controlled Chaos)
+### 💻 My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs,python,js,ts,tailwind,docker,mysql,mongodb,firebase,git,vscode&perline=8)](https://skillicons.dev)
 
