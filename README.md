@@ -13,16 +13,27 @@
   </a>
 </p>
 
+---
+
+<div align="center">
+
 ### 🛠️ Current Status
+
 - **Current Vibe:** `git push origin main --force` and praying
 - **Daily Diet:** Water, regrets, and fixing bugs I created yesterday
 - **IDE Setup:** Dark mode so deep it swallows my soul
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 💻 My Tech Stack (Controlled Chaos)
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs,python,js,ts,tailwind,docker,mysql,mongodb,firebase,git,vscode&perline=8)](https://skillicons.dev)
+
+</div>
 
 - **PHP / Laravel:** Keeping legacy systems alive on pure willpower.
 - **Vue / React / Next.js:** For when I want to spend 3 hours configuring a build tool.
@@ -31,24 +42,16 @@
 
 ---
 
-### 📊 GitHub Stats & Flex (That I Swear Are Real)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quinoviva&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quinoviva&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quinoviva&theme=tokyonight" width="48%" />
-</p>
-
----
+<div align="center">
 
 ### 🏆 Achievements Unlocked
-- 🥇 Closed an issue by writing `- [x] fixed` and never tested it.
+
+- 🥇 Closed an issue by writing `- [x] fixed` and never testing it.
 - 🥈 Wrote a commit message that just says `fixes stuff` at 3:00 AM.
 - 🥉 Googled how to center a `div` more than 500 times.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quinoviva&color=blueviolet&style=flat-square&label=Unfortunate+Visitors" alt="profile views" />
 </p>
+
+</div>
