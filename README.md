@@ -20,7 +20,7 @@
 
 ---
 
-### 💻 My Tech Stack
+### 💻 My Tech Stack (Controlled Chaos)
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs,python,js,ts,tailwind,docker,mysql,mongodb,firebase,git,vscode&perline=8)](https://skillicons.dev)
 
@@ -34,11 +34,12 @@
 ### 📊 GitHub Stats & Flex (That I Swear Are Real)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quinoviva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=quinoviva&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinoviva&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=quinoviva&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quinoviva&theme=tokyonight" width="48%" />
 </p>
 
 ---
