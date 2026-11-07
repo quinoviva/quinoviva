@@ -26,11 +26,11 @@
 ### 📊 GitHub Stats & Flex (That I Swear Are Real)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quinoviva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinoviva&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -41,5 +41,5 @@
 * 🥉 Googled how to center a `div` more than 500 times.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&color=blueviolet&style=flat-square&label=Unfortunate+Visitors" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=quinoviva&color=blueviolet&style=flat-square&label=Unfortunate+Visitors" alt="profile views" />
 </p>
