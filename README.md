@@ -17,12 +17,12 @@
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/playing-nothing_rn-informational?style=flat-square" />
   <img src="https://img.shields.io/badge/coding-nothing_rn-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Apple_Music-vibing_to_music-fa243c?style=flat-square&logo=applemusic&logoColor=white" />
+  <img src="https://img.shields.io/badge/listening_to-nothing_rn-green?style=flat-square" />
 </p>
 
 ---
 
-<div align="center" style="cursor: url('https://cur.cursors-4u.net/games/gam-11/gam105.cur'), auto;">
+<div align="center">
 
 ### 🛠️ Current Status
 
@@ -38,4 +38,29 @@ IDE Setup: Dark mode so deep it swallows my soul
 
 ### 💻 My Tech Stack (Controlled Chaos)
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs,python,js,ts,tailwind,docker,mysql,mongodb,firebase,git,vscode&perline=8)](
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs,python,js,ts,tailwind,docker,mysql,mongodb,firebase,git,vscode&perline=8)](https://skillicons.dev)
+
+<br>
+
+**PHP / Laravel:** Keeping legacy systems alive on pure willpower.<br>
+**Vue / React / Next.js:** For when I want to spend 3 hours configuring a build tool.<br>
+**Python:** Doing machine learning stuff until the matrix multiplication fails.<br>
+**Docker:** "It worked on my machine, I don't know what to tell you."
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 Achievements Unlocked
+
+🥇 Closed an issue by writing `- [x] fixed` and never testing it.<br>
+🥈 Wrote a commit message that just says `fixes stuff` at 3:00 AM.<br>
+🥉 Googled how to center a `div` more than 500 times.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quinoviva&color=blueviolet&style=flat-square&label=Unfortunate+Visitors" alt="profile views" />
+</p>
+
+</div>
