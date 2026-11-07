@@ -13,15 +13,22 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/playing-nothing_rn-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/coding-nothing_rn-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/listening_to-nothing_rn-green?style=flat-square" />
+</p>
+
 ---
 
 <div align="center">
 
 ### 🛠️ Current Status
 
-- **Current Vibe:** `git push origin main --force` and praying
-- **Daily Diet:** Water, regrets, and fixing bugs I created yesterday
-- **IDE Setup:** Dark mode so deep it swallows my soul
+Current Vibe: `git push origin main --force` and praying<br>
+Daily Diet: Water, regrets, and fixing bugs I created yesterday<br>
+IDE Setup: Dark mode so deep it swallows my soul
 
 </div>
 
@@ -33,12 +40,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,react,nextjs,nodejs,python,js,ts,tailwind,docker,mysql,mongodb,firebase,git,vscode&perline=8)](https://skillicons.dev)
 
-</div>
+<br>
 
-- **PHP / Laravel:** Keeping legacy systems alive on pure willpower.
-- **Vue / React / Next.js:** For when I want to spend 3 hours configuring a build tool.
-- **Python:** Doing machine learning stuff until the matrix multiplication fails.
-- **Docker:** "It worked on my machine, I don't know what to tell you."
+**PHP / Laravel:** Keeping legacy systems alive on pure willpower.<br>
+**Vue / React / Next.js:** For when I want to spend 3 hours configuring a build tool.<br>
+**Python:** Doing machine learning stuff until the matrix multiplication fails.<br>
+**Docker:** "It worked on my machine, I don't know what to tell you."
+
+</div>
 
 ---
 
@@ -46,9 +55,9 @@
 
 ### 🏆 Achievements Unlocked
 
-- 🥇 Closed an issue by writing `- [x] fixed` and never testing it.
-- 🥈 Wrote a commit message that just says `fixes stuff` at 3:00 AM.
-- 🥉 Googled how to center a `div` more than 500 times.
+🥇 Closed an issue by writing `- [x] fixed` and never testing it.<br>
+🥈 Wrote a commit message that just says `fixes stuff` at 3:00 AM.<br>
+🥉 Googled how to center a `div` more than 500 times.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quinoviva&color=blueviolet&style=flat-square&label=Unfortunate+Visitors" alt="profile views" />
